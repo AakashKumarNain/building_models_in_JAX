@@ -1,5 +1,10 @@
+<div align='center'>
+
+<img src='./jax.png' width="300" height=200>
+<br><br>
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/AakashKumarNain/building_models_in_JAX/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/stars/AakashKumarNain/building_models_in_JAX?color=yellowgreen&logo=github)](https://github.com/AakashKumarNain/building_models_in_JAX)
 [![Twitter](https://img.shields.io/twitter/follow/A_K_Nain?style=social)](https://twitter.com/A_K_Nain)
 
 ---
